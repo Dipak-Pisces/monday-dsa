@@ -1,4 +1,4 @@
-package arrayTest.Collectors;
+package week1.Collectors;
 
 import java.util.Arrays;
 import java.util.stream.Collectors;

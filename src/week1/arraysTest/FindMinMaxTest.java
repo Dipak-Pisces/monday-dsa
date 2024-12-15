@@ -1,4 +1,4 @@
-package arrayTest;
+package week1.arraysTest;
 
 import java.util.Arrays;
 

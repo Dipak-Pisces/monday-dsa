@@ -1,0 +1,50 @@
+1. Streams with Sets
+    Converting a Set to a Stream.
+    Filtering unique elements and performing operations.
+    Merging two sets into one using Stream.concat.
+    Common DSA examples:
+        Find the intersection of two sets.
+        Check if one set is a subset of another.
+
+2. Streams with Maps
+    Processing keys, values, and entries:
+    Using map.entrySet().stream() to process key-value pairs.
+    Filtering entries based on conditions.
+    Finding max or min key/value.
+    Transforming a Map:
+    Converting a Map to a List or Set.
+    Creating a new Map from filtered/processed entries.
+    Common DSA examples:
+        Frequency count using a Map.
+        Grouping elements into a Map by criteria.
+
+3. Streams with HashMaps
+    Operations specific to HashMap:
+    Merging two HashMaps using streams.
+    Collecting a filtered Stream back into a HashMap.
+    Sorting a HashMap by keys or values using streams.
+    Common DSA examples:
+        Counting occurrences of elements.
+        Finding the key with the highest or lowest value.
+
+4. Streams with Stacks
+    Converting a Stack to a Stream.
+    Reversing a stack using streams.
+    Processing elements from the top of the stack.
+    Common DSA examples:
+        Balancing brackets using a stack and streams.
+        Evaluating postfix expressions.
+
+5. Streams with Queues
+    Processing elements in a Queue using streams.
+    Filtering elements without modifying the queue.
+    Common DSA examples:
+        Level-order traversal of a binary tree using a queue and streams.
+        Simulating a queue system with filtering and sorting.
+
+6. Combined Operations
+    Using flatMap with nested collections like Map<String, List<Integer>>.
+    Applying parallel streams to collections for performance.
+    DSA examples:
+        Processing adjacency lists for graphs using streams.
+        Finding paths in a tree or graph using a combination of stacks and maps.

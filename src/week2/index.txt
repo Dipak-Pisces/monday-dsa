@@ -1,0 +1,69 @@
+1. Reverse a LinkedList
+Problem:
+Given a LinkedList<Integer>, reverse its elements using streams.
+
+Hint:
+Use stream() to collect elements in reverse order with Collectors.toCollection(LinkedList::new).
+=====================================
+2. Find the Middle Element
+Problem:
+Given a LinkedList<Integer>, find the middle element. If the size is even, return both middle elements.
+
+Hint:
+Convert the LinkedList to a stream and use skip with the size divided by 2.
+=====================================
+3. Remove Duplicates
+Problem:
+Given a LinkedList<Integer>, remove duplicate elements.
+
+Hint:
+Use distinct() to eliminate duplicates and collect back into a LinkedList.
+=====================================
+4. Partition LinkedList into Two
+Problem:
+Partition a LinkedList<Integer> into two separate lists: one containing all even numbers and the other containing all odd numbers.
+
+Hint:
+Use partitioningBy from Collectors to group into two lists and extract as needed.
+=======================================
+5. Rotate the LinkedList
+Problem:
+Rotate a LinkedList<Integer> by k positions. For example, [1, 2, 3, 4, 5] rotated by 2 becomes [4, 5, 1, 2, 3].
+
+Hint:
+Use skip and limit to extract two sublists and concatenate them with Stream.concat.
+=======================================
+6. Find the Kth Largest Element
+Problem:
+Given a LinkedList<Integer>, find the kth largest element.
+
+Hint:
+Sort the list using sorted() and skip the appropriate number of elements.
+
+7. Merge Two Sorted LinkedLists
+Problem:
+Given two sorted LinkedLists, merge them into a single sorted LinkedList.
+
+Hint:
+Use Stream.concat to combine streams and then sort the result before collecting.
+
+8. Check if LinkedList is a Palindrome
+Problem:
+Determine if a LinkedList<Character> is a palindrome.
+
+Hint:
+Compare the list to its reversed version created with streams.
+
+9. Find the Intersection of Two LinkedLists
+Problem:
+Find all common elements between two LinkedList<Integer> instances.
+
+Hint:
+Convert one list to a set, then filter elements in the second list based on membership.
+
+10. Convert Nested LinkedList
+Problem:
+Flatten a LinkedList<LinkedList<Integer>> into a single LinkedList<Integer>.
+
+Hint:
+Use flatMap to handle nested streams.

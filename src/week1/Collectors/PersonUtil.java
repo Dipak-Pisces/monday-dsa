@@ -1,4 +1,4 @@
-package arrayTest.Collectors;
+package week1.Collectors;
 
 public class PersonUtil {
 

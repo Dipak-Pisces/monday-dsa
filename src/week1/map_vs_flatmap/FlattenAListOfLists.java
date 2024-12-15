@@ -1,4 +1,4 @@
-package arrayTest.map_vs_flatmap;
+package week1.map_vs_flatmap;
 
 import java.util.Arrays;
 import java.util.List;

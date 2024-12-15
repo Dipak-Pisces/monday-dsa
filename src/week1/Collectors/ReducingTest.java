@@ -1,9 +1,8 @@
-package arrayTest.Collectors;
+package week1.Collectors;
 
 import java.util.Optional;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
-import java.util.stream.Stream;
 
 public class ReducingTest {
 
