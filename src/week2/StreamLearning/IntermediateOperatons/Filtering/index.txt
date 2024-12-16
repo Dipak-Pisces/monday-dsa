@@ -1,0 +1,45 @@
+1. Find All Even Numbers in an Array **
+Problem: Given an array of integers, return a list of all even numbers in the array.
+
+2. Find Numbers Greater Than a Given Value **
+Problem: Given an array of integers and a threshold value, return a list of all numbers greater than the threshold.
+
+3. Remove Negative Numbers from a List
+Problem: Given a list of integers, return a list without the negative numbers.
+
+4. Find Strings Longer Than 4 Characters **
+Problem: Given a list of strings, return all strings that have more than 4 characters.
+
+5. Find Numbers Divisible by 3 and 5
+Problem: Given an array of integers, return a list of numbers that are divisible by both 3 and 5.
+
+6. Filter Positive Odd Numbers
+Problem: Given an array of integers, return all positive odd numbers.
+
+7. Filter Words Starting with "a" **
+Problem: Given a list of strings, return a list of words that start with the letter "a".
+
+8. Find All Prime Numbers in an Array **
+Problem: Given an array of integers, return a list of prime numbers in the array.
+
+9. Find All Palindromic Words
+Problem: Given a list of strings, return a list of words that are palindromes.
+
+10. Remove Duplicates from a List
+Problem: Given a list of integers, return a list with only unique elements (no duplicates).
+
+11. Find All Numbers Less Than or Equal to 100
+Problem: Given an array of integers, return a list of numbers less than or equal to 100.
+
+12. Find All Words Containing the Substring "cat"
+Problem: Given a list of strings, return all words that contain the substring "cat".
+
+13. Filter Numbers Between Two Given Values
+Problem: Given an array of integers and two threshold values, return a list of numbers between the two thresholds.
+
+14. Find All Words that Start with a Capital Letter
+Problem: Given a list of strings, return a list of words that start with a capital letter.
+
+15. Find All Even Length Words
+Problem: Given a list of strings, return a list of words with an even number of characters.
+

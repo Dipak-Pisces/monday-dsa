@@ -39,28 +39,28 @@ Given a LinkedList<Integer>, find the kth largest element.
 
 Hint:
 Sort the list using sorted() and skip the appropriate number of elements.
-
+=======================================
 7. Merge Two Sorted LinkedLists
 Problem:
 Given two sorted LinkedLists, merge them into a single sorted LinkedList.
 
 Hint:
 Use Stream.concat to combine streams and then sort the result before collecting.
-
+=======================================
 8. Check if LinkedList is a Palindrome
 Problem:
 Determine if a LinkedList<Character> is a palindrome.
 
 Hint:
 Compare the list to its reversed version created with streams.
-
+=======================================
 9. Find the Intersection of Two LinkedLists
 Problem:
 Find all common elements between two LinkedList<Integer> instances.
 
 Hint:
 Convert one list to a set, then filter elements in the second list based on membership.
-
+=======================================
 10. Convert Nested LinkedList
 Problem:
 Flatten a LinkedList<LinkedList<Integer>> into a single LinkedList<Integer>.
