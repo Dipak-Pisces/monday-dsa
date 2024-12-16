@@ -1,0 +1,17 @@
+Examining Operations
+
+    1) Check if any number in the array is divisible by 5.
+    2) Verify if all elements in the array are positive.
+    3) Determine if no element in the array is greater than 100.
+
+Limiting Operations
+
+    4) Return the first 3 elements from a list of integers.
+    5) Skip the first 2 elements and return the rest from an array.
+    6) Retrieve the smallest 4 numbers from a list of integers after sorting.
+
+Converting Operations
+
+    7) Convert an array of integers into a list.
+    8) Convert a list of strings into an array.
+    9) Convert an array of characters into a string.
